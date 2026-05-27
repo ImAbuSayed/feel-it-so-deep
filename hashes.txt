@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Feel It So Deep
+
+This log tracks the cryptographic history and versioning for the song **Feel It So Deep** (feel-it-so-deep).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:40:26.046813 | `v1` | `fe222cab70a53c71858fd3317c289feecea192bb17e734efb4d6de5ce16e82c6` | `8704d1036a228428972fcba033369c2b71b4c4a2808eade0c23f454a0b484844` | `2026-05-27_feel-it-so-deep-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
