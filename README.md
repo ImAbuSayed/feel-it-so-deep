@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/feel-it-so-deep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Feel It So Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/feel-it-so-deep/) |
+| **Get License** | [Request Licensing for Feel It So Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/feel-it-so-deep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little warmth into this midnight air
+> I can feel your gravity pulling me there
+> Slide a little closer, let the shadows fall
+> I just want you, I just want it all
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
